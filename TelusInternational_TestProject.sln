@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelusInternational.WebApp", "TelusInternational.WebApp\TelusInternational.WebApp.csproj", "{CF71D196-18AE-41B2-8F1B-D79780912A4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelusInternational.DataAccess", "TelusInternational.DataAccess\TelusInternational.DataAccess.csproj", "{1AC37274-4BAC-4801-B25A-15531C539202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelusInternational.Business", "TelusInternational.Business\TelusInternational.Business.csproj", "{48C2C5CC-2496-468E-9237-876D24F256CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF71D196-18AE-41B2-8F1B-D79780912A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF71D196-18AE-41B2-8F1B-D79780912A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF71D196-18AE-41B2-8F1B-D79780912A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF71D196-18AE-41B2-8F1B-D79780912A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC37274-4BAC-4801-B25A-15531C539202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC37274-4BAC-4801-B25A-15531C539202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC37274-4BAC-4801-B25A-15531C539202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC37274-4BAC-4801-B25A-15531C539202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C2C5CC-2496-468E-9237-876D24F256CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C2C5CC-2496-468E-9237-876D24F256CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C2C5CC-2496-468E-9237-876D24F256CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C2C5CC-2496-468E-9237-876D24F256CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D33438F-218D-4A8F-AA24-7A992C48A1D1}
+	EndGlobalSection
+EndGlobal

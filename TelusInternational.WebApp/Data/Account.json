@@ -1,0 +1,8 @@
+[
+  {
+    "Username": "Admin",
+    //this is the password as plain text for now since we don't know what hashing was used, so to login use PasswordHash as password
+    "PasswordHash": "21232f297a57a5a743894a0e4a801fc3",
+    "Id": 1
+  }
+]
